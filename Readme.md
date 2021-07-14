@@ -1,7 +1,6 @@
 # [Личный проект «Кексобукинг»](https://askomarov.github.io/keksobookingByHTMLAcademy/)
 ---
-Выполненный в рамках обучения профессии, на курсе "JavaScript. Профессиональная разработка веб-интерфейсов
-Уровень 1" «[JavaScript. Профессиональная разработка веб-интерфейсов](https://htmlacademy.ru/intensive/javascript)» от [HTML Academy](https://htmlacademy.ru).
+Выполненный в рамках обучения профессии, на курсе ["JavaScript. Профессиональная разработка веб-интерфейсов Уровень 1"](https://htmlacademy.ru/intensive/javascript) от [HTML Academy](https://htmlacademy.ru).
 
 Выполненный в рамках обучения профессии, на курсе "JavaScript. Профессиональная разработка веб-интерфейсов
 Уровень 1"
